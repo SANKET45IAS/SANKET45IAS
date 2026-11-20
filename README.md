@@ -1,39 +1,27 @@
 
-<!-- ===================================================== -->
-<!--              SANKET SIDHIVINAYAK PROFILE               -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:172554,100:6D28D9&height=220&section=header&text=SANKET%20SIDHIVINAYAK&fontSize=43&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=220&section=header&text=SANKET%20SIDHIVINAYAK&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
 
-<h2>👋 Hello, I'm Sanket Sidhivinayak</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;GATE+2026+Qualified+%7C+AIR+14%2C876;Backend+Development+%7C+Node.js;Exploring+AI%2FML+and+Building+Projects;Learn+%7C+Build+%7C+Solve+%7C+Improve" />
 
-<h3>🏆 GATE 2026 QUALIFIED | AIR 14,876</h3>
+<br/>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineer;Backend+Developer;Java+%7C+JavaScript+%7C+Node.js;AI%2FML+Enthusiast;Building+Scalable+Applications" />
-</p>
+<a href="https://sanket45-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Website-00D9FF?style=for-the-badge"/>
+</a>
+<a href="https://github.com/SANKET45IAS">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://linkedin.com/in/sanketnayak45/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=SANKET45IAS&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/SANKET45IAS?label=FOLLOWERS&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/SANKET45IAS?label=STARS&style=for-the-badge&color=yellow" />
-</p>
+<br/><br/>
 
-<p>
-  <a href="https://linkedin.com/in/sanketnayak45/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/SANKET45IAS">
-    <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LEETCODE-PROBLEM_SOLVING-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
-
-**Learning by Building | Testing | Improving**
+<img src="https://komarev.com/ghpvc/?username=SANKET45IAS&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/SANKET45IAS?label=Followers&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/stars/SANKET45IAS?label=Stars&style=for-the-badge&color=yellow"/>
 
 </div>
 
@@ -41,86 +29,87 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Sanket Sidhivinayak**, a Computer Science and Engineering undergraduate at **ITER, Siksha 'O' Anusandhan (SOA) University**.
+Hello! I'm **Sanket Sidhivinayak**, a Computer Science and Engineering undergraduate at **ITER, Siksha 'O' Anusandhan University**.
 
-I'm passionate about backend development, software engineering, and Artificial Intelligence. I enjoy building practical applications, understanding system architecture, and solving real-world problems through technology.
+I'm passionate about software engineering, backend development, and Artificial Intelligence. I enjoy transforming ideas into practical applications and understanding how scalable systems work internally.
 
 - 🎓 B.Tech in Computer Science and Engineering
-- 🏫 ITER, Siksha 'O' Anusandhan University
+- 🏫 ITER, SOA University
+- 🏆 **GATE 2026 Qualified — AIR 14,876**
 - 📅 Graduation: 2027
 - 📊 CGPA: 8.88/10 (through 6th semester)
-- 🏆 GATE 2026 Qualified — AIR 14,876
 - 💻 Primary Focus: Backend Development
-- 🧠 Interests: AI/ML, System Design, Backend Engineering
+- 🧠 Interests: AI/ML, System Design, Full-Stack Development
+- 🧩 LeetCode: 90+ Problems Solved
 - 🌱 Currently Learning: Advanced Node.js, Docker, AI/ML
-- 🎯 Career Goal: Become a skilled Software Engineer
+- 🎯 Goal: Become a skilled Software Engineer
 
 ---
 
 ## 🏆 Achievements
 
-<p>
-  <img src="https://img.shields.io/badge/GATE_2026-QUALIFIED-FFD700?style=for-the-badge&logo=target&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AIR-14%2C876-blue?style=for-the-badge"/>
-</p>
+<div align="center">
 
-- 🏆 GATE 2026 Qualified — All India Rank 14,876
-- 🛡️ Fortinet Cybersecurity Certifications — Fundamentals, NSE 2, NSE 3
-- 🚀 Smart India Hackathon 2025 — Team Lead, Eco Verse
-- 💡 Adobe India Hackathon 2025
-- ☕ Java Certification Test
+<img src="https://img.shields.io/badge/GATE_2026-Qualified-FFD700?style=for-the-badge&logo=target&logoColor=black"/>
+<img src="https://img.shields.io/badge/AIR-14%2C876-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LeetCode-90%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/Fortinet-NSE_2_%26_NSE_3-red?style=for-the-badge"/>
+
+</div>
+
+- Qualified GATE 2026 with All India Rank 14,876.
+- Solved 90+ LeetCode problems.
+- Fortinet Cybersecurity Certifications: Certified Fundamentals, NSE 2, NSE 3.
+- Smart India Hackathon 2025 – Team Lead, Eco Verse.
+- Adobe India Hackathon 2025.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Programming Languages
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python" />
+<img src="https://skillicons.dev/icons?i=java,js,python"/>
 </p>
 
-### ⚙️ Backend Development
+### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 - REST API Development
 - MVC Architecture
-- Routing and Middleware
+- Authentication & Authorization
 - JWT Authentication
-- Authorization
-- Error Handling and Validation
+- Middleware and Error Handling
 
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-</p>
-
-### 🔐 Security & Tools
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,linux" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
 </p>
 
-- Cybersecurity Fundamentals
-- OWASP Top 10 Fundamentals
-- API Security Concepts
-- Password Hashing
-- Network Security Fundamentals
-
-### 🤖 AI & Machine Learning
+### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch" />
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
 </p>
 
-- Machine Learning Fundamentals
-- Natural Language Processing
-- Text Classification
-- AI API Integration
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux"/>
+</p>
+
+### AI & Machine Learning
+
+- Python
+- NLP Fundamentals
+- Scikit-learn
+- Pandas
+- Basic Machine Learning
 
 ---
 
@@ -128,82 +117,76 @@ I'm passionate about backend development, software engineering, and Artificial I
 
 ### 1. Task Management REST API
 
-**Tech Stack:** Node.js | Express.js | MongoDB | Mongoose | JWT
+**Tech Stack:** Node.js | Express.js | MongoDB | JWT
 
-- Developed a backend task management application.
-- Implemented user registration and JWT authentication.
-- Built CRUD operations for task management.
-- Added filtering, pagination, and input validation.
-- Implemented centralized error handling.
+- Developed RESTful APIs for task management.
+- Implemented JWT-based authentication and authorization.
+- Added CRUD operations, filtering, and pagination.
+- Implemented centralized error handling and input validation.
 
 ### 2. Online Examination System
 
-**Tech Stack:** Java | OOP | Collections | Multithreading | File I/O
+**Tech Stack:** Java | OOP | Collections | Multithreading
 
-- Developed a console-based online examination system.
+- Developed a console-based examination system.
 - Implemented student registration and authentication.
 - Added randomized MCQ examinations and automated timers.
 - Implemented negative marking and result generation.
-- Used file handling for persistent data storage.
 
 ### 3. Fake News Detector Using ML
 
-**Tech Stack:** Python | Flask | NLP | Scikit-learn | OpenRouter API
+**Tech Stack:** Python | Flask | NLP | Scikit-learn
 
 - Developed a web application to analyze news content.
-- Explored NLP-based text classification techniques.
-- Integrated OpenRouter API for AI-assisted analysis.
-- Built a workflow to identify potentially misleading news.
+- Explored NLP-based text classification.
+- Integrated OpenRouter API for AI-assisted news analysis.
+
+### 4. Hand Cricket Game 🎮
+
+**Tech Stack:** React | JavaScript | HTML | CSS
+
+<a href="https://handcricket45.netlify.app/">
+<img src="https://img.shields.io/badge/🎮_PLAY_HAND_CRICKET-Visit_Game-00C853?style=for-the-badge"/>
+</a>
+
+- Developed an interactive hand cricket game using React.
+- Implemented batting, bowling, scoring, and game logic.
+- Built an interactive user interface for gameplay.
+- Deployed the application using Netlify.
 
 ---
 
-## 📚 Core Computer Science Subjects
+## 🌐 My Portfolio
 
-- Object-Oriented Programming (OOP)
-- Database Management Systems (DBMS)
-- Computer Networks (CN)
-- Data Structures and Algorithms (DSA)
+<div align="center">
+
+<a href="https://sanket45-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-00D9FF?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+**Explore my portfolio, technical skills, projects, and achievements.**
+
+<a href="https://handcricket45.netlify.app/">
+<img src="https://img.shields.io/badge/PLAY_MY_HAND_CRICKET_GAME-FF8C00?style=for-the-badge&logo=react&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🎯 Current Learning Roadmap
+## 🧠 Problem Solving
 
-```text
-        Strong CS Fundamentals
-                 |
-                 ▼
-        DSA + Java + SQL
-                 |
-                 ▼
-        Backend Development
-                 |
-                 ▼
-        Node.js + Express.js
-                 |
-                 ▼
-        System Design + Docker
-                 |
-                 ▼
-        Machine Learning
-                 |
-                 ▼
-        PyTorch + Deep Learning
-                 |
-                 ▼
-        Build Real-World AI Systems
-```
+<div align="center">
 
-### 🌱 Currently Focusing On
+<img src="https://img.shields.io/badge/LeetCode-90%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
-- [x] Java and OOP fundamentals
-- [x] REST API Development
-- [x] JWT Authentication
-- [x] MongoDB and CRUD Operations
-- [ ] Advanced Node.js
-- [ ] Docker and Cloud Deployment
-- [ ] Advanced DSA
-- [ ] Machine Learning with PyTorch
-- [ ] Building production-ready AI applications
+<br/><br/>
+
+<a href="https://leetcode.com/">
+<img src="https://leetcard.jacoblin.cool/SANKET45IAS?theme=dark&font=Baloo&ext=heatmap" width="75%"/>
+</a>
+
+</div>
 
 ---
 
@@ -211,25 +194,28 @@ I'm passionate about backend development, software engineering, and Artificial I
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SANKET45IAS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SANKET45IAS&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANKET45IAS&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANKET45IAS&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=SANKET45IAS&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=SANKET45IAS&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🎯 Current Learning Goals
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SANKET45IAS/SANKET45IAS/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
+- [x] Qualify GATE 2026
+- [x] Solve 90+ LeetCode problems
+- [x] Build practical backend projects
+- [ ] Master Advanced Node.js and Express.js
+- [ ] Strengthen Data Structures and Algorithms
+- [ ] Learn Docker and Cloud Deployment
+- [ ] Build my own small AI model
+- [ ] Develop production-ready applications
 
 ---
 
@@ -237,16 +223,20 @@ I'm passionate about backend development, software engineering, and Artificial I
 
 <div align="center">
 
+<a href="https://sanket45-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=netlify"/>
+</a>
+
 <a href="https://linkedin.com/in/sanketnayak45/">
-<img src="https://img.shields.io/badge/LinkedIn-Sanket_Sidhivinayak-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/SANKET45IAS">
-<img src="https://img.shields.io/badge/GitHub-SANKET45IAS-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:sanketsidhivinayak8@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
@@ -255,10 +245,8 @@ I'm passionate about backend development, software engineering, and Artificial I
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:172554,100:050816&height=120&section=footer"/>
+### 💡 "Learn. Build. Solve. Share. Grow."
 
-### 💡 "Learn • Build • Solve • Share • Grow"
-
-**Thanks for visiting my GitHub profile!** ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:090979,100:020024&height=120&section=footer"/>
 
 </div>
